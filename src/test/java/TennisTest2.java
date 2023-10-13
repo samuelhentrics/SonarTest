@@ -4,6 +4,8 @@ import java.util.stream.Stream;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import org.junit.jupiter.params.provider.MethodSource;
+import tennis.TennisGame;
+import tennis.TennisGame2;
 
 public class TennisTest2 {
 
